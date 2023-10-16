@@ -8,7 +8,7 @@
 .navbar-custom {
     background-color: white !important;
     min-height: auto;
-    padding: 20px 40px !important;
+    padding: 13px 40px !important;
 }
 
 .loginBtn {
@@ -17,7 +17,8 @@
     border-radius: 10px;
     background-color: #FFCB11;
     border: transparent;
-    box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.1);
+    font-weight: bolder;
 }
 
 @media screen and (max-width: 390px) {

@@ -80,62 +80,24 @@
 
 /* Astrologers */
 
-.topAstrologers {
-    background-color: #FFCB11;
-    min-height: 600px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.topAstrologers div h2 {
-    text-align: center;
-}
 
 
 
-.astro-cards {
-    width: 230px;
-    padding: 20px 10px;
-    border-radius: 10px;
-    margin: 0 auto;
-    text-align: center;
-    background-color: #FFFFFF;
-}
 
-.astro-cards img {
-    display: block;
-    width: 150px;
-    height: 150px;
-    margin: 10px auto;
-}
-
-.desc h4 {
-    color: #EE721B;
-    margin-top: 5px;
-    font-weight: bolder !important;
-}
-
-.desc p{
-    color: rgba(0, 0, 0, 0.7);
-    margin-top: 10px;
-    margin-bottom: 0 !important;
-}
-
-.desc p:last-of-type {
-    margin-top: 5px;
-}
 
 
 /* Benefits */
 .benefits {
     background-color: #ECECEC;
     min-height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .benefits .main {
     width: 90vw;
-    margin: 0px auto;
+    margin: 30px auto;
     display: flex;
     justify-content: center;
     align-items: center;
